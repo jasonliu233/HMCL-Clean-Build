@@ -1,4 +1,4 @@
-# HMCL 简介版 已编译版本
+# HMCL 简洁版 已编译版本
 
 该版本由一流编译后fork而来，需要请前往[![releases]](https://github.com/jasonliu233/HMCL-Clean-Build/releases)下载
 

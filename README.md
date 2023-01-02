@@ -1,3 +1,7 @@
+# HMCL 简介版 已编译版本
+
+该版本由一流编译后fork而来，需要请前往[![releases]](https://github.com/jasonliu233/HMCL-Clean-Build/releases)下载
+
 # HMCL 簡潔版
 
 由於原版的 HMCL 包含了很多（作為一個 Linux 用戶與開源愛好者來看）實在是多余/不純淨的功能，本項旨在刪去這些功能，得到一個純淨的 Minecraft **啓動器**。
